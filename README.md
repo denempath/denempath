@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denempath
-- 👀 I’m interested in desktop apps, using clustering structures to solve messy problems
-- 🌱 I’m currently learning Dart & Flutter
+- 👀 I'm working on a niche workflow app
+- 🌱 I’m currently learning elixir
 - 💞️ I’m not looking to collaborate right now
 - 📫 How to reach me denempath@gmail.com
 
