@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denempath
-- 👀 I'm working on a niche workflow app
-- 🌱 Which I plan to build in python
+- 👀 I'm working on a niche app for carers
+- 🌱 Which I plan to build in flutter
 - 💞️ I’m not looking to collaborate right now
 - 📫 How to reach me denempath@gmail.com
 
